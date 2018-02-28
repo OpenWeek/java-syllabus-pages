@@ -1,76 +1,76 @@
 CH0_introduction :
     title : Introduction
     content:
-        intro_programmation:
+        intro_programmation.rst:
             title: Qu'est-ce que la programmation ?
-        intro_hello-world:
+        intro_hello-world.rst:
             title: Introduction au langage Java
 CH1_variables :
     title : Variables
     content :
-        affect_decla :
+        affect_decla.rst :
             title : Déclaration et affectation de variable
-        syntax :
+        syntax.rst :
             title : Syntaxe des noms de variable
-        types :
+        types.rst :
             title : Types de variable
-        variables_in_programs :
+        variables_in_programs.rst :
             title : Variables dans les programmes
 CH2_expressions :
     title : Expressions
     content :
-        arithmetic_operator :
+        arithmetic_operator.rst :
             title : Expressions
 CH3_conditionnelles :
     title : Expressions conditionnelles
     content :
-        theorie :
+        theorie.rst :
             title : Théorie
 CH4_boucles :
     title : Boucles
     content :
-        while :
+        while.rst :
             title : Boucle while
-        for :
+        for.rst :
             title : Boucle for
-        exercices_qcm :
+        exercices_qcm.rst :
             title : QCM
-        exercices_inginious :
+        exercices_inginious.rst :
             title : Exercices Inginious
 CH6_tableaux :
     title : Tableaux
     content :
-        tableaux_initialisation :
+        tableaux_initialisation.rst :
             title : Initialiser un tableau
-        tableaux_operations :
+        tableaux_operations.rst :
             title : Opérations sur un tableau
-        tableaux_multidimensions :
+        tableaux_multidimensions.rst :
             title : Tableaux multidimensionnels
-        qcm_avances :
+        qcm_avances.rst :
             title : QCM Avancés
-        exercices :
+        exercices.rst :
             title : Exercices
-        erreurs_frequentes :
+        erreurs_frequentes.rst :
             title : Erreurs fréquentes
 CH7_methodes:
     title: Les Méthodes
     content:
-        introduction:
+        introduction.rst:
             title: "Introduction"
-        definitions:
+        definitions.rst:
             title: "Définitions de fonctions"
-        portee:
+        portee.rst:
             title: "Portée de variables"
 contribuer:
     title: Contribuer au syllabus
     content:
-        contribuer:
+        contribuer.rst:
             title: Contribuer au contenu du syllabus
-        create_task:
+        create_task.rst:
             title: Créer une tâche INGInious
 informations_utiles:
   title: Information utiles
   content:
-    comprendre_compilateur:
+    comprendre_compilateur.rst:
       title: Comprendre le compilateur
 #
